@@ -40,7 +40,7 @@ dataclasses-json==0.6.7
 debugpy==1.8.2
 decorator==5.1.1
 defusedxml==0.7.1
-dojo-compass==2.8.12
+dojo-compass==2.8.14
 eth-account==0.11.2
 eth-hash==0.7.0
 eth-keyfile==0.8.1
